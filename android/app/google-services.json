@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088610406084",
+    "project_id": "gestionnaire-de-taches-d4355",
+    "storage_bucket": "gestionnaire-de-taches-d4355.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088610406084:android:66f01332f4517d5a984391",
+        "android_client_info": {
+          "package_name": "com.branking.gestionnairedetaches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUogCWMQ7F41zYUMcr0RCP6si_tIv885c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Taches",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "niveauPriorite",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "complete",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
